@@ -1,6 +1,4 @@
-# ትግራይ ዉድድር
-
-🤯🥳
+#ትግራይ ዉድድር
 <html lang="am">
 <head>
     <meta charset="UTF-8">
@@ -75,7 +73,7 @@
         let contestants = JSON.parse(localStorage.getItem('contestants')) || [
             { id: 1, name: "ተወዳዳሪ 1", img: "https://via.placeholder.com/300", votes: 256 },
             { id: 2, name: "ተወዳዳሪ 2", img: "https://via.placeholder.com/300", votes: 234 },
-            { id: 3, name: "ተወዳዳሪ 3", img: "https://via.placeholder.com/300", votes: 267 }
+            { id: 3, name: "ተወዳዳሪ 3", img: "https://via.placeholder.com/300", votes: 238 }
         ];
 
         function renderContestants() {
